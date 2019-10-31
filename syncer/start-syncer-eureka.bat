@@ -1,0 +1,1 @@
+syncer daemon --node=syncer-eureka --sc-addr http://127.0.0.1:8761/eureka --bind-addr 192.168.88.96:30180 --rpc-addr 192.168.88.96:30181 --cluster-port=30182 --sc-plugin=eureka --join-addr 192.168.88.96:30190

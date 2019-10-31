@@ -1,0 +1,2 @@
+syncer daemon --node=syncer-sc --sc-addr http://127.0.0.1:30100 --bind-addr 192.168.88.96:30190 --rpc-addr 192.168.88.96:30191 --cluster-port=30192 --sc-plugin=servicecenter --join-addr 192.168.88.96:30180
+ 
